@@ -1,0 +1,11 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\bin\Debug\WFmatTextbox.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\bin\Debug\WFmatTextbox.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\bin\Debug\WFmatTextbox.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\obj\Debug\WFmatTextbox.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\obj\Debug\WFmatTextbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\obj\Debug\WFmatTextbox.Form1.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\obj\Debug\WFmatTextbox.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\obj\Debug\WFmatTextbox.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\obj\Debug\WFmatTextbox.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\obj\Debug\WFmatTextbox.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatTextbox\WFmatTextbox\obj\Debug\WFmatTextbox.pdb
